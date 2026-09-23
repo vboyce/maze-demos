@@ -1,0 +1,3 @@
+# The jspsych-maze source that used to live here; build from jspsych-maze instead.
+source/
+node_modules/
